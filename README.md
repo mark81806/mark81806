@@ -1,7 +1,7 @@
 ## About Me
 
 * **Name:** Mark Cheng
-* **Student from [NCKUES](http://earth.ncku.edu.tw/):** Frontend Engineer
+* **A Junior from [NCKUES](http://earth.ncku.edu.tw/)** 
 * **Location:** Tainan, Taiwan
 * **Email:** mark81806@gmail.com 
 * Interested in deeplearnig and datastructure,currently a rookie in algorithm
