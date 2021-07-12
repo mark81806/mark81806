@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @mark81806
-- 👀 I’m interested in deeplearnig and datastructure
-- 🌱 I’m currently a rookie in algorithm
-- 📫 How to reach me email:mark81806@gmail.com
+## About Me
+
+* **Name:** Mark Cheng
+* **Student from [NCKUES](http://earth.ncku.edu.tw/):** Frontend Engineer
+* **Location:** Tainan, Taiwan
+* **Email:** mark81806@gmail.com 
+* ****interested in deeplearnig and datastructure,currently a rookie in algorithm
+## Projects
+
+* Creating [妖怪女友](https://kjj6198.github.io/resume/): An oldstlye scenario game.
+
 
 <!---
 mark81806/mark81806 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
