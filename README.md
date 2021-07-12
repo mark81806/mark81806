@@ -4,7 +4,7 @@
 * **Student from [NCKUES](http://earth.ncku.edu.tw/):** Frontend Engineer
 * **Location:** Tainan, Taiwan
 * **Email:** mark81806@gmail.com 
-* interested in deeplearnig and datastructure,currently a rookie in algorithm
+* Interested in deeplearnig and datastructure,currently a rookie in algorithm
 ## Projects
 
 * Creating [妖怪女友](https://kjj6198.github.io/resume/): An oldstlye scenario game.
