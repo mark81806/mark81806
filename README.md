@@ -7,7 +7,7 @@
 * Interested in deeplearnig and datastructure,currently a rookie in algorithm
 ## Projects
 
-* Creating [妖怪女友](https://kjj6198.github.io/resume/): An oldstlye scenario game.
+* Creating [妖怪女友](https://github.com/mark81806/MosterGF): An oldstlye scenario game.
 
 
 <!---
